@@ -1,6 +1,0 @@
-1) Ts property ke variable ko use krna ho to [] square bracket use krte h.
-2) for Event use () round bracket
-3) ngModel is used for passing from ts to html and html to ts
-4) @for is used to run loop in html page syntax: (@for(user of users;track user.name)) 
-5) *ngFor also used in version version in html element directly
-6) pass data from parent to child we need @Input decorator
